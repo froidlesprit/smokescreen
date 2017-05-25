@@ -64,4 +64,4 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 
 [Raleway Font](https://fonts.google.com/specimen/Raleway "Raleway Font"), [Google Fonts](https://fonts.google.com "Google Fonts"), Multiple Designers
 
-[Original source code](https://github.com/keeganjk/smokescreen "Original Source Code), Keeganjk
+[Original source code](https://github.com/keeganjk/smokescreen "Original Source Code"), Keeganjk
