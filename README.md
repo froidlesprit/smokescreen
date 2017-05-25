@@ -26,11 +26,11 @@ Smokescreen is a simple JavaScript program that randomly opens sites from a long
 In 2017, the US president signed a bill that would allow ISPs to obtain access to your browser history and sell it to whoever they please. This could mean government agencies, large advertisement businesses, or if they really wanted to, your creepy neighbor next-door. This will make it more difficult for your ISPs to find or sell real history to others, thus preventing your information from being compromised.
 ## How to use it
 > ### 1. Download
-> Firstly, on any OS, you would navigate to https://github.com/keeganjk/smokescreen. Once on this page, click the button that says "Clone or Download" and then "Download as ZIP".
+> Firstly, on any OS, you would navigate to https://github.com/froidlesprit/smokescreen. Once on this page, click the button that says "Clone or Download" and then "Download as ZIP".
 > <br />
 > ![Clone or Download](https://github.com/keeganjk/smokescreen/blob/master/images/download.gif?raw=true "")
 > <br />
-> If you are on Unix (Linux, macOS, or BSD), you can type <code>git clone https://github.com/keeganjk/smokescreen</code> into the terminal to 
+> If you are on Unix (Linux, macOS, or BSD), you can type <code>git clone https://github.com/froidlesprit/smokescreen</code> into the terminal to 
 > clone this repository and then <code>mv</code> into the directory. If you do this, skip to step 3.
 
 <hr>
@@ -63,3 +63,4 @@ In 2017, the US president signed a bill that would allow ISPs to obtain access t
 [Brushed Alum pattern](https://www.toptal.com/designers/subtlepatterns/brushed-alum/ "Brushed Alum Pattern"), Tim Ward
 
 [Raleway Font](https://fonts.google.com/specimen/Raleway "Raleway Font"), [Google Fonts](https://fonts.google.com "Google Fonts"), Multiple Designers
+[Original source code](https://github.com/keeganjk/smokescreen "Original Source Code), Keeganjk
